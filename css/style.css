@@ -1,8 +1,33 @@
 nav {
     background-color: grey;
-    padding: 1em;
+    padding: 1em 0 0.5em;
 }
 .bnav {
     display: inline;
-    margin: 0em 1em 1em 1em;
+}
+#logo {
+    margin-left: 13em;
+}
+
+main {
+
+}
+
+#main1 {
+    margin-right: 22em;
+    margin-bottom: 7em;
+    text-align: left;
+}
+
+h2 {
+    display: inline-block;
+    text-align: right;
+}
+
+img {
+    margin-right: 5em;
+}
+
+#imgmain {
+    float: left;
 }
